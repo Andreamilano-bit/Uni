@@ -43,6 +43,7 @@ int main()
     }
     showProgressBar(100);
 
+
     cout<<"\n\nPress [Enter] to continue..."<<endl;
     cin.ignore(1);
     return 0;
